@@ -6,4 +6,11 @@ Financial bubbles—periods of unsustainable price growth followed by sharp cras
 
 Key words: Early-warning indicators, Financial bubbles, Multi-horizon forecasting, Permutation importance, PSY-test
 
-Here you can find the poster of research work
+Here you can find the poster of research work and oral presentation on AIAT 2025 conference, Kyoto, Japan.
+
+This repository is shared for collaboration and employment purposes. 
+Please provide appropriate attribution when referencing this work. 
+
+© 2026 Fatima Sultakeeva
+
+
